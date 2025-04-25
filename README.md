@@ -46,7 +46,7 @@ Bot de música para Discord con capacidad de reproducir canciones desde YouTube,
 - Integración con la API de Discord
 - Integración con de Genius API (opcional para comandos de letras)
 
-[🔗 Repositorio]([https://github.com/JuanSntn/botdiscord])
+[🔗 Repositorio](https://github.com/JuanSntn/botdiscord)
 
 ---
 
@@ -61,7 +61,7 @@ Galería de fotos interactiva con estilo Polaroid que permite a los usuarios vis
 - Animaciones CSS personalizadas
 - Responsive design para todos los dispositivos
 
-[🔗 Repositorio]([https://github.com/JuanSntn/portfolio])
+[🔗 Repositorio](https://github.com/JuanSntn/portfolio)
 
 ---
 
@@ -77,8 +77,8 @@ Portafolio personal desarrollado con React que muestra mis proyectos, habilidade
 - Modo claro/oscuro
 - Optimizado para SEO y rendimiento
 
-[🔗 Visitar Portafolio]([https://juansntn.github.io/portfolio/]) | 
-[🔗 Repositorio]([https://github.com/JuanSntn/portfolio])
+[🔗 Visitar Portafolio](https://juansntn.github.io/portfolio/) | 
+[🔗 Repositorio](https://github.com/JuanSntn/portfolio)
 
 ## 📊 Estadísticas GitHub
 
